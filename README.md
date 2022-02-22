@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Web Development
 </p>
 <p align="center">
-- ⚡ Fun fact: I suck at programming and coding
+- ⚡ Fun fact: Windows Notepad is the best IDE
 </p>
 
 ---
