@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Web Development
 </p>
 <p align="center">
-- ⚡ Fun fact: Windows Notepad is the best IDE
+- ⚡ Fun fact: Windows Notepad is the best text editor
 </p>
 
 ---
