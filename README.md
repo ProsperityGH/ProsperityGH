@@ -47,5 +47,5 @@
 <details align="center">
     <summary>&#128266 <b>What songs have I recently listened to?</b></summary><br/>
     
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=rigrwu2o0birzce2ls35nyxeo)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=rigrwu2o0birzce2ls35nyxeo&unique=true)
 <!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=rigrwu2o0birzce2ls35nyxeo&count=1) -->
