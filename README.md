@@ -43,3 +43,8 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ProsperityGH&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </details>
+
+<details align="center">
+    <summary>&#128266 <b>What song did I recently listen to?</b></summary><br/>
+    
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=rigrwu2o0birzce2ls35nyxeo&count=1)
