@@ -45,7 +45,6 @@
 </details>
 
 <details align="center">
-    <summary>&#128266 <b>What songs have I recently listened to?</b></summary><br/>
+    <summary>&#128266 <b>What song have I recently listened to?</b></summary><br/>
     
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=rigrwu2o0birzce2ls35nyxeo&unique=true&res.setHeader('Cache-Control', 's-maxage=60, stale-while-revalidate')
-<!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=rigrwu2o0birzce2ls35nyxeo&count=1) -->
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=rigrwu2o0birzce2ls35nyxeo&unique=true&count=1&res.setHeader('Cache-Control', 's-maxage=60, stale-while-revalidate')
