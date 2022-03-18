@@ -23,7 +23,7 @@
 - ⚡ Fun fact: ...
 -->
 <details align="center">
-    <summary>&#9889 <b>Technologies I have used</b></summary><br/>
+    <summary>&#128736;&#65039; <b>Technologies I have used</b></summary><br/>
 
 #### &#128104;&#8205;&#128187; Programming languages
 
