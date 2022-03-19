@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Prosperity 👋</h1>
 <p align="center">
-- 🔭 I’m currently studying at Grafisch Lyceum Utrecht
+- 🔭 I’m currently in my first year of studying at Grafisch Lyceum Utrecht
 </p>
 <p align="center">
 - 🌱 I’m currently learning Web Development
