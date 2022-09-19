@@ -23,7 +23,7 @@
 - ⚡ Fun fact: ...
 -->
 <details align="center">
-    <summary>&#128736;&#65039; <b>Technologies I have used</b></summary><br/>
+    <summary>&#128736;&#65039; <b>Stuff I have experience with</b></summary><br/>
 
 #### &#128104;&#8205;&#128187; Programming languages
 
@@ -32,8 +32,8 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+<!-- ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) -->
 
 #### &#129520; Frameworks and content management systems
  
