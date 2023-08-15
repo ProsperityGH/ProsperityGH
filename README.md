@@ -47,7 +47,9 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![Shopify](https://img.shields.io/badge/-SHOPIFY-96bf48?logoColor=white&style=for-the-badge)
+<br>
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Nuxt.js](https://img.shields.io/badge/Nuxtjs-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
     
 #### 🌱 Environments and package managers
 
