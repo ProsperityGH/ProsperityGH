@@ -47,7 +47,10 @@
 ![Tailwind](https://img.shields.io/badge/tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![Shopify](https://img.shields.io/badge/-SHOPIFY-96bf48?logoColor=white&style=for-the-badge)
+<br>
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+
     
 #### 🌱 Environments and package managers
 
@@ -83,7 +86,7 @@
 <details align="center">
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ProsperityGH&theme=algolia&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=ProsperityGH&theme=algolia&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 </details>
 
