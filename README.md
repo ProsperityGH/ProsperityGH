@@ -67,7 +67,7 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23FFFFFF.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
-##### &#127918; Level editors
+#### &#127918; Level editors
 
 ![Hammer](https://img.shields.io/badge/-Hammer-red?style=for-the-badge)
 ![Hammer++](https://img.shields.io/badge/-Hammer++-purple?style=for-the-badge)
