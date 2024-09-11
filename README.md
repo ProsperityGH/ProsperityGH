@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Prosperity 👋</h1>
 <p align="center">
-- 🔭 I’m currently in my third year of studying at Grafisch Lyceum Utrecht
+- 🔭 I’m currently in my first year of studying at University of Applied Sciences Utrecht
 </p>
 <p align="center">
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning Computer Science
 </p>
 <p align="center">
 - ⚡ Fun fact: Windows Notepad is the best text editor
