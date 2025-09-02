@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Prosperity 👋</h1>
 <p align="center">
-- 🔭 I’m currently in my first year of studying at University of Applied Sciences Utrecht
+- 🔭 I’m currently in my second year of studying at University of Applied Sciences Utrecht
 </p>
 <p align="center">
 - 🌱 I’m currently learning Computer Science
@@ -80,7 +80,7 @@
 <details align="center">
     <summary>&#9889 <b>GitHub Stats</b></summary><br/>
 
-![Prosperity's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ProsperityGH&theme=github_dark&count_private=true&show_icons=true&cache_seconds=1800&hide_border=true&hide_rank=true)![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ProsperityGH&theme=github_dark&langs_count=10&count_private=true&cache_seconds=1800&layout=compact&custom_title=Used%20Languages%20In%20Public%20Repos&hide_border=true&hide=hack,shell,c%2B%2B,scheme)
+![Prosperity's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProsperityGH&theme=github_dark&count_private=true&show_icons=true&cache_seconds=1800&hide_border=true)![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ProsperityGH&theme=github_dark&langs_count=10&count_private=true&cache_seconds=1800&layout=compact&custom_title=Used%20Languages%20In%20Public%20Repos&hide_border=true&hide=hack,shell,c%2B%2B,scheme)
 
 </details>
 
@@ -94,7 +94,7 @@
 <details align="center">
     <summary>&#128187 <b>GitHub Streak</b></summary><br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ProsperityGH&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ProsperityGH&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </details>
 
